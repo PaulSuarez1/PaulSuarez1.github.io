@@ -1,0 +1,61 @@
+
+header {
+    background-color: rgb(132, 107, 241);
+    text-align: left;
+    font-family: fantasy;
+    height: 200px;
+    font-size: 150px;
+    padding: 32px;
+}
+body{
+    background-color: pink;
+    text-align: left;
+   
+    
+}
+p {
+    Margin: 16px;
+    font-family: sans-serif;
+}
+h2 {
+    
+    padding: 16px;
+}
+section {
+    margin-left: 40px;
+    margin-right: 973px;
+    background-color: #f0a0a0;
+    border-radius: 15px;
+    
+}
+ul li{
+    display: inline-block;
+    list-style-type: none;
+    margin-right: 1px;
+    padding-left: 0;
+    overflow: hidden;
+    background-color: #f0a0a0;
+    text-align: left;
+    font-size: 32px;
+    border-radius: 15px;
+
+}
+li a{
+    font-family: fantasy;
+    display: block;
+    color: #5500ff;
+    text-align: left;
+    padding: 32px;
+
+    
+}
+li{
+    float: left;
+}
+section {
+    margin-top: 200px;
+    
+}
+img {
+    margin: 16px;
+}
